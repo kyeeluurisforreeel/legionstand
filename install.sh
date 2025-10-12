@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "kyx said nigger"
+echo "doge is a faggot"
