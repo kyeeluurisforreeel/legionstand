@@ -1,3 +1,3 @@
-#!/usr/bin/env bash
-
-print("python is workinng if this shows")
+#!/usr/bin/env python3
+import subprocess
+print("python is working if this shows")
